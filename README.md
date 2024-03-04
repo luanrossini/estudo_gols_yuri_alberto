@@ -9,19 +9,19 @@ Yuri Alberto é um atacante brasileiro conhecido por sua habilidade dentro da á
 Analisar os gols do atacante brasileiro Yuri Alberto e tirar insights dos dados coletados e estudados.
 
 ### Informações do dataset:
-temporada: Ano em que ocorreu o campeonato
-competição: Nome do campeonato disputado
-rodada: Número da rodada do campeonato ou fase do torneio
-data: Data que aconteceu a partida
-cidade: Local da partida (C = CASA, F = FORA)
-por: Nome do time que Yuri Alberto defende
-adversario: Nome do time adversário da partida
-resultado: Resultado final da partida
-posicao: Nome da posição que Yuri Alberto iniciou a partida
-minuto: Número do minuto da execução do gol
-para resultado: Resultado temporário que o gol aconteceu
-tipo de gol: Tipo do gol executado
-assistencia: Nome do jogador que fez a assistência
+ temporada: Ano em que ocorreu o campeonato<br/>
+competição: Nome do campeonato disputado<br/>
+rodada: Número da rodada do campeonato ou fase do torneio<br/>
+data: Data que aconteceu a partida<br/>
+cidade: Local da partida (C = CASA, F = FORA)<br/>
+por: Nome do time que Yuri Alberto defende<br/>
+adversario: Nome do time adversário da partida<br/>
+resultado: Resultado final da partida<br/>
+posicao: Nome da posição que Yuri Alberto iniciou a partida<br/>
+minuto: Número do minuto da execução do gol<br/>
+para resultado: Resultado temporário que o gol aconteceu<br/>
+tipo de gol: Tipo do gol executado<br/>
+assistencia: Nome do jogador que fez a assistência<br/>
 Obtenção dos Dados e Importação de Bibliotecas
 
 ### Análises
@@ -72,21 +72,21 @@ Também é importante destacar que a grande volumetria dos gols de Yuri são do 
 Para as próximas análises, vamos usar uma outra base de dados agregando mais informações e possibilidades de desdobramentos.
 
 ### Informações do dataset:
-temporada: Ano em que ocorreu o campeonato
-competição: Nome do campeonato disputado
-plantel: Número de vezes que o jogador foi relacionado para uma partida
-jogos: Número de vezes que o jogador participou de uma partida
-pontos_por_jogo: Número de pontos médio por jogo disputado
-gols: Quantidade de gols feitos
-assistencias: Quantidade de assistencias
-gols_contra: Quantidade de gols contra
-suplente_utilizado: Quantidade de partidas utilizado como reserva
-substituicoes: Quantidade de partidas que foi substituido
-cartoes_amarelos: Quantidade de cartões amarelos
-expulsoes_dois_amarelos: Quantidade de expulsões com 2 amarelos
-expulsoes_vermelho_direto: Quantidade de expulsões com vermelho direto
-gol_de_penalti: Quantidade de gols de pênalti
-minutos_por_gol: Quantidade de minutos jogador para ocorrer um gol
+temporada: Ano em que ocorreu o campeonato<br/>
+competição: Nome do campeonato disputado<br/>
+plantel: Número de vezes que o jogador foi relacionado para uma partida<br/>
+jogos: Número de vezes que o jogador participou de uma partida<br/>
+pontos_por_jogo: Número de pontos médio por jogo disputado<br/>
+gols: Quantidade de gols feitos<br/>
+assistencias: Quantidade de assistencias<br/>
+gols_contra: Quantidade de gols contra<br/>
+suplente_utilizado: Quantidade de partidas utilizado como reserva<br/>
+substituicoes: Quantidade de partidas que foi substituido<br/>
+cartoes_amarelos: Quantidade de cartões amarelos<br/>
+expulsoes_dois_amarelos: Quantidade de expulsões com 2 amarelos<br/>
+expulsoes_vermelho_direto: Quantidade de expulsões com vermelho direto<br/>
+gol_de_penalti: Quantidade de gols de pênalti<br/>
+minutos_por_gol: Quantidade de minutos jogador para ocorrer um gol<br/>
 minutos_jogados: Quantidade total de minutos jogados
 
 ### 8. Quantos minutos para participar de um gol Yuri Alberto tem por temporada?
