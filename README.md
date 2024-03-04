@@ -10,31 +10,18 @@ Analisar os gols do atacante brasileiro Yuri Alberto e tirar insights dos dados 
 
 ### Informações do dataset:
 temporada: Ano em que ocorreu o campeonato
-
 competição: Nome do campeonato disputado
-
 rodada: Número da rodada do campeonato ou fase do torneio
-
 data: Data que aconteceu a partida
-
 cidade: Local da partida (C = CASA, F = FORA)
-
 por: Nome do time que Yuri Alberto defende
-
 adversario: Nome do time adversário da partida
-
 resultado: Resultado final da partida
-
 posicao: Nome da posição que Yuri Alberto iniciou a partida
-
 minuto: Número do minuto da execução do gol
-
 para resultado: Resultado temporário que o gol aconteceu
-
 tipo de gol: Tipo do gol executado
-
 assistencia: Nome do jogador que fez a assistência
-
 Obtenção dos Dados e Importação de Bibliotecas
 
 ### Análises
