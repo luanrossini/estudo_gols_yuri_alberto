@@ -8,18 +8,6 @@ Yuri Alberto é um atacante brasileiro conhecido por sua habilidade dentro da á
 
 Analisar os gols do atacante brasileiro Yuri Alberto e tirar insights dos dados coletados e estudados.
 
-### Conhecimentos utilizados:
-Python;
-Análise de dados;
-Estatística Básica;
-Visualização de dados.
-
-### Etapas do Projeto:
-Análise exploratória dos dados;
-Limpeza e tratamento dos dados;
-Perguntas e Respostas
-Conclusão
-
 ### Informações do dataset:
 temporada: Ano em que ocorreu o campeonato
 competição: Nome do campeonato disputado
@@ -36,9 +24,11 @@ tipo de gol: Tipo do gol executado
 assistencia: Nome do jogador que fez a assistência
 Obtenção dos Dados e Importação de Bibliotecas
 
-### Todos os dados usados foram obtidos a partir do transfermarkt, portal de futebol com transferências, valores de mercado, rumores e estatísticas.
+### Análises
+# 1. Quais as datas do primeiro e último gol do atacante?
+Primeiro gol: 2018-07-03 00:00:00
+Último gol: 2024-11-02 00:00:00
 
-Algumas considerações:
+# 2. Quais os principais tipos de gols de Yuri Alberto?
+![image](https://github.com/luanrossini/estudo_gols_yuri_alberto/assets/119509335/79c399e6-442c-4a44-8e05-e66427b15003)
 
-Foi acrescentado manualmente na base "Todos os gols" os dados do gol número 1 no jogo realizado entre Novorizontino FC e Santos FC no dia 07/03/2018 devido a não contemplação do jogo na base origem
-Foram realizados algumas tratativas manuais nas bases para melhor entendimento e manipulação das variáveis
