@@ -33,11 +33,36 @@ Primeiro gol: 2018-07-03 00:00:00
 # 2. Quais os principais tipos de gols de Yuri Alberto?
 ![image](https://github.com/luanrossini/estudo_gols_yuri_alberto/assets/119509335/79c399e6-442c-4a44-8e05-e66427b15003)
 
+Nota-se que os principais recursos que o atacante mais tem êsito são nos chutes de pé direito, cabeçada e chute com o pé esquerdo.
+
+Já pênaltis e jogadas individuais não são tão representativas, mostrando que o jogador tende a não ter esses dois pontos como fortes em suas habilidades.
+
 # 3. Qual a distribuição de gols dentro e fora de casa do centro-avante?
 ![image](https://github.com/luanrossini/estudo_gols_yuri_alberto/assets/119509335/452e8df6-7222-4bb0-a57c-eb9487299db3)
 
+Os dados mostram uma tendência marcante do atacante em marcar mais gols em jogos disputados dentro de casa, sugerindo uma forte influência do fator localização no desempenho do goleador.
+
 # 4. Qual o top 5 times que mais levaram gols e quais os 5 principais assistentes de Yuri Alberto?
 ![image](https://github.com/luanrossini/estudo_gols_yuri_alberto/assets/119509335/cd8847a2-4e39-4710-b16a-018fca347cc5)
-![image](https://github.com/luanrossini/estudo_gols_yuri_alberto/assets/119509335/7bdd8fcb-a451-4a66-b772-8bc551a47d31)
 
+Destaca-se os clubes Atlético-GO, Flamengo, Bahia, São Paulo e Santos como os principais alvos do atacante. É legal destacar que mesmo tendo uma passagem pelo Santos no início de sua carreira, Yuri Alberto tem o time da baixada como uma das 5 principais vítimas em suas estatísticas de gols marcados contra.
 
+# 5. Quais as faixas de tempo de todos os gols?
+![image](https://github.com/luanrossini/estudo_gols_yuri_alberto/assets/119509335/0d9d87e2-21ca-4426-8fa5-a2b853791e85)
+
+Yuri tende a marcar mais gols entre os 15 minutos finais de cada tempo e tende a fazer menos gols nos começos das partidas. Isso muito pode ser explicado devido as fortes marcações e estudos que o futebol moderno aplica na etapa inicial de cada partida, o que deixa o jogo mais truncado e com menos possibilidades de finalizações e gols.
+
+# 6. Quais os campeonatos que Yuri mais fez gol? E quais os anos em que ele mais balançou as redes adversárias?
+![image](https://github.com/luanrossini/estudo_gols_yuri_alberto/assets/119509335/104e8c13-3eed-4a4c-81d1-b5dfaa4cef90)
+
+Destaca-se o Brasileirão como o principal torneio em que o atacante converte gols em sua carreira e os anos de 2021 e 2022 como as duas principais temporadas em relação a quantidade de gols marcados.
+
+Há de se destacar também a grande diferença de métricas entre os anos de 2018/2019 para 2020, mostrando uma maturidade e evolução do jogador no fundamento de fazer gol.
+
+# 7. Quais os resultados finais dos jogos em que Yuri fez gol? E quais os resultados parciais que os gols resultaram?
+![image](https://github.com/luanrossini/estudo_gols_yuri_alberto/assets/119509335/8170099e-7ab6-4561-825f-bbeb59b3ea87)
+![image](https://github.com/luanrossini/estudo_gols_yuri_alberto/assets/119509335/5d03acd1-b4c8-4176-8b51-6c88b308a8ef)
+
+É evidente que os jogos que o atacante marca gol são finalizados com vitória do time do jogador.
+
+Também é importante destacar que a grande volumetria dos gols de Yuri são do tipo "ampliou ou diminuiu o placar" e "fechou o placar", mostrando que o atacante conta com boa conversão durante o andamento da partida.
