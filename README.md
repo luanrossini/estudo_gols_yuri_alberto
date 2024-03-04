@@ -66,3 +66,46 @@ Há de se destacar também a grande diferença de métricas entre os anos de 201
 É evidente que os jogos que o atacante marca gol são finalizados com vitória do time do jogador.
 
 Também é importante destacar que a grande volumetria dos gols de Yuri são do tipo "ampliou ou diminuiu o placar" e "fechou o placar", mostrando que o atacante conta com boa conversão durante o andamento da partida.
+
+################################################################################################################################
+
+Para as próximas análises, vamos usar uma outra base de dados agregando mais informações e possibilidades de desdobramentos.
+
+### Informações do dataset:
+temporada: Ano em que ocorreu o campeonato
+competição: Nome do campeonato disputado
+plantel: Número de vezes que o jogador foi relacionado para uma partida
+jogos: Número de vezes que o jogador participou de uma partida
+pontos_por_jogo: Número de pontos médio por jogo disputado
+gols: Quantidade de gols feitos
+assistencias: Quantidade de assistencias
+gols_contra: Quantidade de gols contra
+suplente_utilizado: Quantidade de partidas utilizado como reserva
+substituicoes: Quantidade de partidas que foi substituido
+cartoes_amarelos: Quantidade de cartões amarelos
+expulsoes_dois_amarelos: Quantidade de expulsões com 2 amarelos
+expulsoes_vermelho_direto: Quantidade de expulsões com vermelho direto
+gol_de_penalti: Quantidade de gols de pênalti
+minutos_por_gol: Quantidade de minutos jogador para ocorrer um gol
+minutos_jogados: Quantidade total de minutos jogados
+
+### 8. Quantos minutos para participar de um gol Yuri Alberto tem por temporada?
+![image](https://github.com/luanrossini/estudo_gols_yuri_alberto/assets/119509335/82990617-d392-4acb-9d40-1fb085ae7b38)
+
+### 9. Qual competição Yuri tem o menor tempo médio para participar de um gol?
+![image](https://github.com/luanrossini/estudo_gols_yuri_alberto/assets/119509335/21671c2b-831c-42f8-89d4-09718cb15acb)
+
+Analisando o desempenho da minutagem necessárias para participar de um gol, os dados nos mostram que o atacante está precisando de mais muitos para participar de um gol efetivo.
+
+# Conclusão
+É evidente que o atacante Yuri Alberto é um dos grandes nomes dos atacantes da nova safra do futebol brasileiro. O jovem goleador desempenha uma função vital nos times que passa e coleciona números impressionantes.
+
+Nesta análise conseguimos identificar alguns pontos importantes que podem ajudar a entender as boas métricas do jogador, dentre as principais podemos citar:
+
+O atacante tem o chute com o pé direito como principal meio de fazer gols;
+O "fator casa" influencia muito na conversão de gols;
+Atlético-GO é o clube que mais foi vítima dos goleador e Edenilson o maior assistente
+Brasileirão e o Paulistão são as duas competições que tiveram conversões de gols de Yuri;
+Grande parte dos gols feitos foram entre 30 à 45 minutos e 75 à 90 minutos;
+Ao decorrer dos anos, o jogador tem indicador de minutagens para participações de gols com tendência de aumento, mostrando que o jogador demora mais tempo para fazer gol ou dar uma assistência.
+Esse estudo é apenas uma visão macro dos dados disponibilizados e há a possibilidade de desencadear mais estudos e análises futuras.
