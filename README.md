@@ -27,8 +27,17 @@ Obtenção dos Dados e Importação de Bibliotecas
 ### Análises
 # 1. Quais as datas do primeiro e último gol do atacante?
 Primeiro gol: 2018-07-03 00:00:00
+
 Último gol: 2024-11-02 00:00:00
 
 # 2. Quais os principais tipos de gols de Yuri Alberto?
 ![image](https://github.com/luanrossini/estudo_gols_yuri_alberto/assets/119509335/79c399e6-442c-4a44-8e05-e66427b15003)
+
+# 3. Qual a distribuição de gols dentro e fora de casa do centro-avante?
+![image](https://github.com/luanrossini/estudo_gols_yuri_alberto/assets/119509335/452e8df6-7222-4bb0-a57c-eb9487299db3)
+
+# 4. Qual o top 5 times que mais levaram gols e quais os 5 principais assistentes de Yuri Alberto?
+![image](https://github.com/luanrossini/estudo_gols_yuri_alberto/assets/119509335/cd8847a2-4e39-4710-b16a-018fca347cc5)
+![image](https://github.com/luanrossini/estudo_gols_yuri_alberto/assets/119509335/7bdd8fcb-a451-4a66-b772-8bc551a47d31)
+
 
