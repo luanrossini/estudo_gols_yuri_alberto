@@ -67,7 +67,7 @@ Há de se destacar também a grande diferença de métricas entre os anos de 201
 
 Também é importante destacar que a grande volumetria dos gols de Yuri são do tipo "ampliou ou diminuiu o placar" e "fechou o placar", mostrando que o atacante conta com boa conversão durante o andamento da partida.
 
-        #############################################################
+                        
 
 Para as próximas análises, vamos usar uma outra base de dados agregando mais informações e possibilidades de desdobramentos.
 
